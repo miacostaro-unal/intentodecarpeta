@@ -1,0 +1,4 @@
+# titulo 1
+## supongo que titulo 2
+
+hola mundo es mi primer practica con este tipo de doc
